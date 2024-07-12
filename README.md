@@ -13,5 +13,6 @@ It is a pure front-end project, the technical highlights are as below:
 
 <img width="1041" alt="image" src="https://github.com/user-attachments/assets/02e17562-924d-4a99-a3bd-2e1c79d3d5c8">
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/c55d2d94-1053-4728-b8f6-94b67ca99ae4">
 
 
