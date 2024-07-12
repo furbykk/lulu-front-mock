@@ -1,11 +1,5 @@
-This is Xing
-I developed header
-This is Tony
-I will write part of Filter.
+This is the mock of LuLuLemon shopping website. 
 
+It is a pure front-end project, the technical highlights are as below:
 
-This is HengZhang
-I will do footer
-
-This is Phoebe,
-I will do the product part.
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/6b382463-94c6-4900-a7af-58e4d286677c">
